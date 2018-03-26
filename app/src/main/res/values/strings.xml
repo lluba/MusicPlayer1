@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string name="pop_music">Pop</string>
+    <string name="rock_music">Rock</string>
+    <string name="dance_music">Dance</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+
+    <color name="colorPrimaryDark">#3E2723</color>
+
+    <color name="colorAccent">#A1887F</color>
+
+    <color name="list_song">#CE93D8</color>
+
+    <!-- Background for the song list -->
+
+
+    <color name="songList">#BCAAA4</color>
+</resources>
